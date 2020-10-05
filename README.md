@@ -10,13 +10,13 @@ Got a message or email from someone asking for your Roblox Avatar Texture, and a
   - Alternatively use `cd C:\Downloads` where C:\Downloads is the folder with the file.
 - Run the command `python rats.py`
 - Enter your Player ID (ex: `2968170`)
-- (Bam!)[https://t6.rbxcdn.com/c384b03bb7ec159dd6c3ceabaef98365]
+- [Bam!](https://t6.rbxcdn.com/c384b03bb7ec159dd6c3ceabaef98365)
 
 ### Standalone File:
 - Download the rats.exe file
 - Run / Double click the file
 - Enter your Player ID (ex: `2968170`)
-- (Bam!)[https://t6.rbxcdn.com/c384b03bb7ec159dd6c3ceabaef98365]
+- [Bam!](https://t6.rbxcdn.com/c384b03bb7ec159dd6c3ceabaef98365)
 
 
 ## JavaScript Attack
@@ -55,7 +55,7 @@ So.. where's the catch?
 ```
 
 This is at the bottom of the JavaScript file, all one line so it's harder to read.
-Let's make it a bit more readable (using (MalwareDecoder)[https://malwaredecoder.com/] because I am lazy.);
+Let's make it a bit more readable (using [MalwareDecoder](https://malwaredecoder.com/) because I am lazy.);
 
 ```
 (async function(){
@@ -77,7 +77,7 @@ Let's make it a bit more readable (using (MalwareDecoder)[https://malwaredecoder
 
 And now let's have the guy that doesn't exactly know what he's talking about break it down again!
 
-- Get your Roblox X-CSRF token ((Cross-Site Request Forgery))[https://blog.roblox.com/2020/10/protecting-users-cross-site-request-forgery/]
+- Get your Roblox X-CSRF token ([Cross-Site Request Forgery](https://blog.roblox.com/2020/10/protecting-users-cross-site-request-forgery/))
 - Get your Roblox Authentication Ticket, using the X-CSRF token that they just acquired
 - Send it to their own site
 - Run the legitimate code, so you get your avatar texture.
@@ -91,4 +91,4 @@ And then I added 'Scraper' to the end because, well, I think "Rats" sounds bette
 
 ## Me!
 
-(I make YouTube videos.)[https://youtube.com/saxaphonewalrus] They have nothing to do with this, I just thought I'd plug it in case anyone sees this.
+[I make YouTube videos.](https://youtube.com/saxaphonewalrus) They have nothing to do with this, I just thought I'd plug it in case anyone sees this.
