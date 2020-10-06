@@ -13,7 +13,7 @@ Got a message or email from someone asking for your Roblox Avatar Texture, and a
 - [Bam!](https://t6.rbxcdn.com/c384b03bb7ec159dd6c3ceabaef98365)
 
 ### Standalone File:
-- Download the rats.exe file
+- Download the rats.exe file [located here](https://github.com/SaxaphoneWalrus/Roblox-Avatar-Texture-Scraper/releases/)
 - Run / Double click the file
 - Enter your Player ID (ex: `2968170`)
 - [Bam!](https://t6.rbxcdn.com/c384b03bb7ec159dd6c3ceabaef98365)
