@@ -10,13 +10,13 @@ Got a message or email from someone asking for your Roblox Avatar Texture, and a
   - Alternatively use `cd C:\Downloads` where C:\Downloads is the folder with the file.
 - Run the command `python rats.py`
 - Enter your Player ID (ex: `2968170`)
-- [Bam!](https://t6.rbxcdn.com/c384b03bb7ec159dd6c3ceabaef98365)
+- [Bam!](https://t6.rbxcdn.com/c384b03bb7ec159dd6c3ceabaef98365) *or [bam](https://t1.rbxcdn.com/f8c626767c822ab380f857650bbca669) if you're using R15.*
 
 ### Standalone File:
 - Download the rats.exe file [located here](https://github.com/SaxaphoneWalrus/Roblox-Avatar-Texture-Scraper/releases/)
 - Run / Double click the file
 - Enter your Player ID (ex: `2968170`)
-- [Bam!](https://t6.rbxcdn.com/c384b03bb7ec159dd6c3ceabaef98365)
+- [Bam!](https://t6.rbxcdn.com/c384b03bb7ec159dd6c3ceabaef98365) *or [bam](https://t1.rbxcdn.com/f8c626767c822ab380f857650bbca669) if you're using R15.*
 
 
 ## JavaScript Attack
